@@ -3,8 +3,8 @@ This Salesforce unmanaged package was built to demonstrate the Vonage verify API
 
 SFDC unmanaged package for Vonage Verify API:
 
-<p>Sandbox Instance:</p>
-http://test.salesforce.com/packaging/installPackage.apexp?p0=04t3g000000Pg3h
+Sandbox Instance:
+<p>http://test.salesforce.com/packaging/installPackage.apexp?p0=04t3g000000Pg3h</p>
 
 Developer Instance:
 http://login.salesforce.com/packaging/installPackage.apexp?p0=04t3g000000Pg3h
