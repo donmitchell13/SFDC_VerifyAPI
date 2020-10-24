@@ -10,6 +10,11 @@ Developer Instance:
 http://login.salesforce.com/packaging/installPackage.apexp?p0=04t3g000000Pg3h
 
 
+Vonage Verify Blog:
+TBD
+
 To modify or extend the capabilities of the Vonage verify api offerings:
 https://developer.nexmo.com/api/verify
+
+
 
