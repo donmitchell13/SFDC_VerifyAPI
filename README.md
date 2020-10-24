@@ -3,18 +3,18 @@ This Salesforce unmanaged package was built to demonstrate the Vonage verify API
 
 SFDC unmanaged package for Vonage Verify API:
 
-Sandbox Instance:
+<b>Sandbox Instance:</b>
 <p>http://test.salesforce.com/packaging/installPackage.apexp?p0=04t3g000000Pg3h</p>
 
-Developer Instance:
-http://login.salesforce.com/packaging/installPackage.apexp?p0=04t3g000000Pg3h
+<b>Developer Instance:</b>
+<p>http://login.salesforce.com/packaging/installPackage.apexp?p0=04t3g000000Pg3h</p>
 
 
-Vonage Verify Blog:
+<b>Vonage Verify Blog:</b>
 TBD
 
-To modify or extend the capabilities of the Vonage verify api offerings:
-https://developer.nexmo.com/api/verify
+<b>To modify or extend the capabilities of the Vonage verify api offerings:</b>
+<p>https://developer.nexmo.com/api/verify</p>
 
 
 
