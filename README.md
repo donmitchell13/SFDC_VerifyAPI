@@ -11,7 +11,7 @@ SFDC unmanaged package for Vonage Verify API:
 
 
 <b>Vonage Verify Blog:</b>
-https://donmitchell13.github.io/BlogPostVonageverifytoSFDC.html
+<p>https://donmitchell13.github.io/BlogPostVonageverifytoSFDC.html</p>
 
 <b>To modify or extend the capabilities of the Vonage verify api offerings:</b>
 <p>https://developer.nexmo.com/api/verify</p>
